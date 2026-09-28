@@ -69,9 +69,11 @@ Menambahkan elemen pilihan lanjutan berupa *radio button* (`type="radio"`) untuk
 
 Menambahkan elemen dropdown pilihan menggunakan `<select>` dan `<option>`, serta kotak teks multi-baris menggunakan `<textarea>` untuk alamat.
 
-<img width="449" height="215" alt="Screenshot 2026-09-28 181617" src="https://github.com/user-attachments/assets/25fb83cc-0790-41ec-b522-f312d6a3afc9" />
+<img width="394" height="64" alt="Screenshot 2026-09-28 183048" src="https://github.com/user-attachments/assets/6951f505-a4a1-4043-b33e-c220b92fe8cd" />
 
-<img width="456" height="108" alt="Screenshot 2026-09-28 181642" src="https://github.com/user-attachments/assets/75b35ba0-723b-47a0-b94e-f381790b7d42" />
+
+<img width="251" height="81" alt="Screenshot 2026-09-28 182849" src="https://github.com/user-attachments/assets/20e8f60c-d48c-45ef-8576-99bae8cf0129" />
+
 
 
 
@@ -79,9 +81,10 @@ Menambahkan elemen dropdown pilihan menggunakan `<select>` dan `<option>`, serta
 
 Menerapkan atribut validasi bawaan HTML seperti `required`, `minlength`, `min`, dan `max` pada elemen form untuk memastikan input pengguna valid sebelum dikirim.
 
-<img src="Screenshot/kode6.png">
-<img src="Screenshot/hasil6.png">
-<img src="Screenshot/hasil6lanjut.png">
+<img width="449" height="212" alt="Screenshot 2026-09-28 183147" src="https://github.com/user-attachments/assets/70dd70a4-dcfa-4ef4-adce-c889c40d6d14" />
+
+<img width="467" height="47" alt="Screenshot 2026-09-28 183223" src="https://github.com/user-attachments/assets/a1e7d6b9-e36a-4685-8ef6-48d384689dbe" />
+
 
 
 
