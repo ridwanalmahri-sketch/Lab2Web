@@ -69,8 +69,10 @@ Menambahkan elemen pilihan lanjutan berupa *radio button* (`type="radio"`) untuk
 
 Menambahkan elemen dropdown pilihan menggunakan `<select>` dan `<option>`, serta kotak teks multi-baris menggunakan `<textarea>` untuk alamat.
 
-<img src="Screenshot/kode5.png">
-<img src="Screenshot/hasil5.png">
+<img width="449" height="215" alt="Screenshot 2026-09-28 181617" src="https://github.com/user-attachments/assets/25fb83cc-0790-41ec-b522-f312d6a3afc9" />
+
+<img width="456" height="108" alt="Screenshot 2026-09-28 181642" src="https://github.com/user-attachments/assets/75b35ba0-723b-47a0-b94e-f381790b7d42" />
+
 
 
 ### 6. Validasi Form Dasar
