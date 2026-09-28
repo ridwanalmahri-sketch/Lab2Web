@@ -92,22 +92,28 @@ Menerapkan atribut validasi bawaan HTML seperti `required`, `minlength`, `min`, 
 
 Menyusun struktur tata letak halaman web yang lebih bermakna dan terstandar menggunakan elemen semantik seperti `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, dan `<footer>`.
 
-<img src="Screenshot/kode7.png">
-<img src="Screenshot/hasil7.png">
+<img width="459" height="335" alt="Screenshot 2026-09-28 201651" src="https://github.com/user-attachments/assets/3e7da565-3001-444f-be55-72ddbf1e1054" />
+
+<img width="425" height="227" alt="Screenshot 2026-09-28 201746" src="https://github.com/user-attachments/assets/23607327-b03a-4075-ae05-429cd39f360d" />
+
 
 
 ### 8. Menambahkan Multimedia
 
 Menyisipkan file media berupa audio (`<audio>`) dan video (`<video>`) ke dalam halaman web dengan kontrol pemutaran (`controls`) serta mengambil sumber file dari folder `media/`.
 
-<img src="Screenshot/kode8.png">
-<img src="Screenshot/hasil8.png">
+<img width="413" height="285" alt="Screenshot 2026-09-28 201826" src="https://github.com/user-attachments/assets/20026e48-8d4f-46ed-8041-25b8de278355" />
+
+<img width="386" height="368" alt="Screenshot 2026-09-28 201853" src="https://github.com/user-attachments/assets/7c48664d-a8d9-481e-b1c7-b0f8664c8a14" />
+
 
 
 ### 9. Proyek Mini: Form Biodata Mahasiswa
 
 Menggabungkan seluruh materi yang telah dipelajari—meliputi struktur semantik, tabel data, form registrasi lengkap dengan validasi, hingga elemen multimedia—kedalam satu halaman web proyek mini (`biodata.html`).
 
-<img src="Screenshot/kode9.png">
-<img src="Screenshot/kode9lanjut.png">
-<img src="Screenshot/hasil9.png">
+<img width="622" height="428" alt="Screenshot 2026-09-28 201956" src="https://github.com/user-attachments/assets/63b9f478-dd7e-480c-9a70-6e8e54b4edf5" />
+
+<img width="475" height="284" alt="Screenshot 2026-09-28 202042" src="https://github.com/user-attachments/assets/7b4996f6-1370-4c4c-a0c9-5b76d8b1e049" />
+
+
